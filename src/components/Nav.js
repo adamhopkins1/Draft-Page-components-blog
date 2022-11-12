@@ -22,10 +22,10 @@ function Nav() {
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
               <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
-                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">About</a></li>
-                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
-                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Portfolio</a></li>
-                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Contact</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Blog</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">About Us</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Contact Us</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Resources</a></li>
               </ul>
             </div>
           </div>
